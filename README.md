@@ -43,8 +43,12 @@ making a exe for the game
 
 changelog
 1.0 to 8.0 versions beta broken versions
+
 9.0 the golden era
+
 10 the broken era
+
 11 to 12 improvements to 10
+
 12 golden era
 
